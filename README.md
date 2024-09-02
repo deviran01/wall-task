@@ -17,7 +17,7 @@
 ## 🚀Quick setup(Test on MacOS) 🚀
 
 ```bash
-curl -o wall-task.sh ? && bash wall-task.sh && rm wall-task.sh
+curl -o wall-task.sh https://raw.githubusercontent.com/deviran01/wall-task/master/quick.sh && bash wall-task.sh && rm wall-task.sh
 ```
 ## 🛳️ Docker Compose (Recommend) 🛳️
 
